@@ -1,0 +1,23 @@
+{
+  "name": "mersenne-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianFred/mersenne-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianFred/mersenne-unit-testing/issues"
+  },
+  "homepage": "https://github.com/ChristianFred/mersenne-unit-testing#readme",
+  "dependencies": {
+    "jest": "^27.2.1"
+  }
+}
